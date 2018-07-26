@@ -1,7 +1,18 @@
+
+
+
 // rect is a DOMRect object with eight properties: left, top, right, bottom, x, y, width, height
 //var rect = obj.getBoundingClientRect();
 //document.getElementById("element1");
 //
+
+//much easier solution by checking the ways they will NOT intersect and return the opposite of it
+function overlap2(element1, element2){
+    const ele1 = element1.getBoundingClientRect();
+    const ele2 = element2.getBoundingClientRect();
+    const overlap = !(ele1.bottom < ele2.top || ele1.left > ele2.right || ele1.top > ele2.bottom || ele1.right < ele2.left);
+    return overlap;
+}
 
 function overlapping_dom(element1, element2){
     const ele1 = element1.getBoundingClientRect();
