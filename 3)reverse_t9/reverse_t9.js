@@ -21,9 +21,9 @@ function reverse_t9(pressedKeys) {
             if(inString[index]===inString[index+1] && inString[index]===inString[index+2] && inString[index]===inString[index+3]){
                 outArr.push(mapLetter[inString[index]][3]);
                 index = index + 3;
-                continue;
             }
-        } else if (inString[index]===inString[index+1] && inString[index]===inString[index+2]){
+        }
+        if (inString[index]===inString[index+1] && inString[index]===inString[index+2]){
             outArr.push(mapLetter[inString[index]][2]);
             index = index + 2;
             continue;
