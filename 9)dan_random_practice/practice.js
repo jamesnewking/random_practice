@@ -60,7 +60,28 @@ output:
 */
 function wordValley( wordArray ){
     var output = [];
-
+    var sorted = true;
+    for(var j=0;j<wordArray.length-1;j++){
+        //sorted = true;
+        for(var i=0;i<wordArray.length-1;i++){
+            if(wordArray[i+1].length < wordArray[i].length){
+                var tempWord = wordArray[i+1];
+                wordArray[i+1] = wordArray[i];
+                wordArray[i] = tempWord;
+                sorted = false;
+            }
+        }
+        if(sorted){break;}
+    }
+    output.push(wordArray[0]);
+    for(var arr=1;arr<wordArray.length;arr++){
+        if(arr%2){
+            output.unshift(wordArray[arr]);
+        }else{
+            output.push(wordArray[arr]);
+        }
+    }
+    return output;
 }
 
 /*
@@ -75,7 +96,19 @@ output:
     }
 */
 function countLetters( word ){
-
+    var vowels = ['a','e','i','o','u'];
+    var output = {
+        vowels: 0,
+        consonants: 0
+    }
+    for(var i = 0; i<word.length;i++){
+        if(vowels.indexOf(word[i])>=0){
+            output.vowels = output.vowels+1;
+        } else {
+            output.consonants = output.consonants+1;
+        }
+    }
+    return output;
 }
 
 /* test code, do not change */

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="deb25328-d3f1-4377-8c3f-f4508a4122f5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9)dan_random_practice/practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/9)dan_random_practice/practice.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.41332117">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
@@ -20,7 +21,7 @@
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
                   <first_editor relative-caret-position="153">
-                    <caret line="9" column="57" lean-forward="true" selection-start-line="8" selection-end-line="9" selection-end-column="57" />
+                    <caret line="9" column="57" selection-start-line="8" selection-end-line="9" selection-end-column="57" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -30,12 +31,17 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="needle.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/8)needle_haystack/needle.js">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="practice.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/9)dan_random_practice/practice.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" lean-forward="true" selection-end-line="13" selection-end-column="1" />
+                <state relative-caret-position="1180">
+                  <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
+                  <folding>
+                    <element signature="e#23#27#0" expanded="true" />
+                    <element signature="e#27#31#0" expanded="true" />
+                    <element signature="e#31#35#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -72,6 +78,7 @@
         <option value="$PROJECT_DIR$/3)reverse_t9/README.md" />
         <option value="$PROJECT_DIR$/8)needle_haystack/README.md" />
         <option value="$PROJECT_DIR$/8)needle_haystack/needle.js" />
+        <option value="$PROJECT_DIR$/9)dan_random_practice/practice.js" />
       </list>
     </option>
   </component>
@@ -84,11 +91,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1541" />
-    <option name="y" value="-44" />
-    <option name="width" value="970" />
-    <option name="height" value="550" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3233" />
+    <option name="height" value="1833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -98,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,10 +122,16 @@
               <item name="random_practice" type="462c0819:PsiDirectoryNode" />
               <item name="8)needle_haystack" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="9)dan_random_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,17 +183,19 @@
       <workItem from="1532969435648" duration="1135000" />
       <workItem from="1532972647606" duration="23000" />
       <workItem from="1534565080940" duration="380000" />
+      <workItem from="1534657183721" duration="301000" />
+      <workItem from="1534716335279" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32606000" />
+    <option name="totallyTimeSpent" value="33529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="733" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1098081" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11255061" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -190,7 +204,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44407347" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44363257" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -204,19 +218,19 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16680162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.44407347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,14 +244,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5)permutations/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5)permutations/permutations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -616,7 +622,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="153">
-            <caret line="9" column="57" lean-forward="true" selection-start-line="8" selection-end-line="9" selection-end-column="57" />
+            <caret line="9" column="57" selection-start-line="8" selection-end-line="9" selection-end-column="57" />
           </first_editor>
           <second_editor />
         </state>
@@ -625,7 +631,19 @@
     <entry file="file://$PROJECT_DIR$/8)needle_haystack/needle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-end-line="13" selection-end-column="1" />
+          <caret line="2" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9)dan_random_practice/practice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="e#23#27#0" expanded="true" />
+            <element signature="e#27#31#0" expanded="true" />
+            <element signature="e#31#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
