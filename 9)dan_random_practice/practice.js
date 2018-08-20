@@ -100,17 +100,19 @@ function countLetters( word ){
     var output = {
         vowels: 0,
         consonants: 0
-    }
+    };
+    var patt = /[a-z]/im;
     for(var i = 0; i<word.length;i++){
         if(vowels.indexOf(word[i])>=0){
             output.vowels = output.vowels+1;
         } else {
-            output.consonants = output.consonants+1;
+            if( patt.test(word[i]) ){
+                output.consonants = output.consonants+1;
+            }
         }
     }
     return output;
 }
-
 /* test code, do not change */
 
 var testVals = [
