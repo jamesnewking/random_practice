@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="deb25328-d3f1-4377-8c3f-f4508a4122f5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9)dan_random_practice/practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/9)dan_random_practice/practice.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.41332117">
+    <splitter split-orientation="horizontal" split-proportion="0.24395162">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
@@ -32,16 +31,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="practice.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/9)dan_random_practice/practice.js">
+          <file leaf-file-name="linked_list.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/linked_list/linked_list.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="250">
-                  <caret line="101" column="21" lean-forward="true" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
-                  <folding>
-                    <element signature="e#23#27#0" expanded="true" />
-                    <element signature="e#27#31#0" expanded="true" />
-                    <element signature="e#31#35#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="289">
+                  <caret line="29" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -79,6 +73,7 @@
         <option value="$PROJECT_DIR$/8)needle_haystack/README.md" />
         <option value="$PROJECT_DIR$/8)needle_haystack/needle.js" />
         <option value="$PROJECT_DIR$/9)dan_random_practice/practice.js" />
+        <option value="$PROJECT_DIR$/linked_list/linked_list.js" />
       </list>
     </option>
   </component>
@@ -92,10 +87,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-1675" />
+    <option name="y" value="-27" />
+    <option name="width" value="1630" />
+    <option name="height" value="1815" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -186,17 +181,20 @@
       <workItem from="1534657183721" duration="301000" />
       <workItem from="1534716335279" duration="622000" />
       <workItem from="1534736051774" duration="2518000" />
+      <workItem from="1534824467379" duration="608000" />
+      <workItem from="1534895283015" duration="545000" />
+      <workItem from="1535086393253" duration="243000" />
+      <workItem from="1535223001658" duration="4242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36051000" />
+    <option name="totallyTimeSpent" value="41693000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1293" height="733" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11353944" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16357504" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -220,19 +218,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16680162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.44407347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -245,13 +243,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5)permutations/permutations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4)toggle_add/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -638,13 +629,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9)dan_random_practice/practice.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="101" column="21" lean-forward="true" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
-          <folding>
-            <element signature="e#23#27#0" expanded="true" />
-            <element signature="e#27#31#0" expanded="true" />
-            <element signature="e#31#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="2" selection-end-line="244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/linked_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
