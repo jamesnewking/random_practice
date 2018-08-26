@@ -31,9 +31,20 @@ class LinkedList{
     addAnywhere(value, node){
         //value is the value to be added
         //node is the link list node to add the value AFTER
+        const insertObj = {
+            value: value,
+            prev: node.prev,
+            next: node
+        }
+        node.prev.next = insertObj;
+        node.prev = insertObj;
     }
     remove( node ){
-        //remove the given node from the lined list
+        //remove the given node from the linked list
+        if(node.prev!==null){
+            node.prev.next = node.next;
+            node.next.prev = node.prev;
+        };
     }
     pop(){
         const last = this.tail;
@@ -51,3 +62,5 @@ list.add('a');
 list.add('b');
 list.add('c');
 list.add('d');
+
+list.addAnywhere('testing',list.search('b'))
