@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb25328-d3f1-4377-8c3f-f4508a4122f5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/linked_list/linked_list.js" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/linked_list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,15 +12,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.24395162">
+    <splitter split-orientation="horizontal" split-proportion="0.51167315">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/8)needle_haystack/README.md">
+            <entry file="file://$PROJECT_DIR$/4)almostIncreasingSequence/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="153">
-                    <caret line="9" column="57" selection-start-line="8" selection-end-line="9" selection-end-column="57" />
+                  <first_editor relative-caret-position="442">
+                    <caret line="26" selection-start-line="26" selection-end-line="26" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -31,23 +31,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="linked_list.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/linked_list/linked_list.js">
+          <file leaf-file-name="almostIncreasingSequence.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/4)almostIncreasingSequence/almostIncreasingSequence.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="485">
-                  <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/linked_list/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="34">
-                    <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-                  </first_editor>
-                  <second_editor />
+                <state relative-caret-position="272">
+                  <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -87,6 +75,8 @@
         <option value="$PROJECT_DIR$/9)dan_random_practice/practice.js" />
         <option value="$PROJECT_DIR$/linked_list/linked_list.js" />
         <option value="$PROJECT_DIR$/linked_list/README.md" />
+        <option value="$PROJECT_DIR$/4)almostIncreasingSequence/README.md" />
+        <option value="$PROJECT_DIR$/4)almostIncreasingSequence/almostIncreasingSequence.js" />
       </list>
     </option>
   </component>
@@ -100,10 +90,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1675" />
-    <option name="y" value="-27" />
-    <option name="width" value="1630" />
-    <option name="height" value="1815" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3233" />
+    <option name="height" value="1833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -128,12 +118,22 @@
             <path>
               <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="random_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="4)almostIncreasingSequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
               <item name="8)needle_haystack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="random_practice" type="462c0819:PsiDirectoryNode" />
               <item name="9)dan_random_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,7 +144,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../c418_hackathon2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -198,18 +198,19 @@
       <workItem from="1534895283015" duration="545000" />
       <workItem from="1535086393253" duration="243000" />
       <workItem from="1535223001658" duration="4242000" />
-      <workItem from="1535234387309" duration="3106000" />
+      <workItem from="1535234387309" duration="3435000" />
+      <workItem from="1535599705333" duration="22000" />
+      <workItem from="1536537867467" duration="1329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44799000" />
+    <option name="totallyTimeSpent" value="46479000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1293" height="733" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16761133" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -237,23 +238,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4)toggle_add/numeric_toggles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4)toggle_add/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4)toggle_add/numeric_toggles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -553,17 +537,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7)overlapping_dom/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="85">
             <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -620,18 +604,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/linked_list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="17">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <first_editor relative-caret-position="85">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4)almostIncreasingSequence/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4)almostIncreasingSequence/almostIncreasingSequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
