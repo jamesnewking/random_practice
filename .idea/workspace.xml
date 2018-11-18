@@ -12,37 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.51167315">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/4)almostIncreasingSequence/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="442">
-                    <caret line="26" selection-start-line="26" selection-end-line="26" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="almostIncreasingSequence.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/4)almostIncreasingSequence/almostIncreasingSequence.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,8 +62,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="y" value="-15" />
-    <option name="width" value="3233" />
-    <option name="height" value="1833" />
+    <option name="width" value="3235" />
+    <option name="height" value="1835" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -109,31 +79,6 @@
             <path>
               <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="random_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="3)array_factors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="4)almostIncreasingSequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="8)needle_haystack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="9)dan_random_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="random_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="random_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,14 +146,15 @@
       <workItem from="1535234387309" duration="3435000" />
       <workItem from="1535599705333" duration="22000" />
       <workItem from="1536537867467" duration="1329000" />
+      <workItem from="1538019367371" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46479000" />
+    <option name="totallyTimeSpent" value="46491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="733" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.16761133" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -537,17 +483,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7)overlapping_dom/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="85">
             <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
