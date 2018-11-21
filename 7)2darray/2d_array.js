@@ -26,18 +26,18 @@ function readLine() {
 
 // Complete the hourglassSum function below.
 function hourglassSum(arr) {
-    let total = -10000000;
-    let maxTot = -10000000;
+    let total = 0;
+    let maxTot = -100;
 
-    for (let z = 0; z < arr.length - 2; z++) {
-        for (let y = 0; y < arr.length - 2; y++) {
+    for (let z = 0; z < 4; z++) {
+        for (let y = 0; y < 4; y++) {
 
             for (let i = 0 + z; i < 3 + z; i++) {
                 for (let j = 0 + y; j < 3 + y; j++) {
-                    if ((i === z + 1) && (j === y)) {
+                    if (((i === (z + 1)) && (j === y))) {
                         continue;
                     }
-                    if ((i === z + 1) && (j === y+2)) {
+                    if ((i === (z + 1)) && (j === (y+2))) {
                         continue;
                     }
                     //if (((i === 1+z) && (j === y)) || ((i === 1+z) && (j === y+2))){
